@@ -1,0 +1,13 @@
+
+nav li,a,ul{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    margin-right: 110px;
+    font-size: 20px;
+}
+nav li:hover{
+    background-color: burlywood;
+    
+}

@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+}
+.audio{
+    width: 30%;
+    height: 30%;
+
+}
+.video{
+    width: 30%;
+    height: 30%;
+
+}
+.youtube iframe{
+    width: 30%;
+    height: 30%;
+
+}
+table{
+    width: 70%;
+    height: 30%;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 50px 150px;
+    
+}
+th,td{
+    border: 2px solid black;
+    padding: 0px 10px;
+}
+.tag{
+    text-align: center;
+}
